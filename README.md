@@ -7,4 +7,4 @@ Slides en voorbeeldcode bij de training Reactive Angular - maart 2021
 - `Operators` repo - https://github.com/PeterKassenaar/ng-rxjs-operators
 
 ## Extra info
-- ...
+- RxJS: avoiding takeUntil leaks: https://ncjamieson.com/avoiding-takeuntil-leaks/
